@@ -1,0 +1,103 @@
+2020-01-07 17:23:03,262-<stdin>[line:1]-DEBUG-hello world
+2020-01-07 17:23:52,405-<stdin>[line:1]-DEBUG-hello world
+2020-01-07 17:23:53,637-<stdin>[line:1]-DEBUG-hello world
+2020-01-07 18:46:58,788-max906_server.py[line:10]-DEBUG-127.0.0.1 wrote:
+2020-01-07 18:46:58,790-max906_server.py[line:11]-DEBUG-b'hello world'
+2020-01-07 18:50:55,981-max906_server.py[line:10]-DEBUG-remote:127.0.0.1
+2020-01-07 18:50:55,982-max906_server.py[line:11]-DEBUG-b'hello mating'
+2020-01-08 15:51:14,022-max906_server.py[line:10]-DEBUG-remote:10.10.2.62
+2020-01-08 15:51:14,025-max906_server.py[line:11]-DEBUG-b'hello?'
+2020-01-08 15:53:27,982-max906_server.py[line:10]-DEBUG-remote:10.10.2.62
+2020-01-08 15:53:27,984-max906_server.py[line:11]-DEBUG-b'hello mating'
+2020-01-08 15:55:05,767-max906_server.py[line:10]-DEBUG-remote:10.10.2.62
+2020-01-08 15:55:05,769-max906_server.py[line:11]-DEBUG-b'hello mating'
+2020-01-08 15:56:16,790-max906_server.py[line:10]-DEBUG-remote:10.10.2.62
+2020-01-08 15:56:16,792-max906_server.py[line:11]-DEBUG-b'hello?'
+2020-01-08 16:23:23,183-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:24,186-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:25,197-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:26,197-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:27,198-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:28,198-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:29,199-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:30,199-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:31,199-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:32,199-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:33,200-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:34,200-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:35,200-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:36,201-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:23:37,201-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 16:27:32,695-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-08 16:29:14,199-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 17:20:15,587-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-08 20:14:16,844-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-08 20:24:38,010-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 08:44:30,395-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-09 08:46:54,725-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 08:51:06,638-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 08:51:15,734-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 08:51:21,653-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 08:51:29,165-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 09:09:58,733-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 09:10:26,682-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-09 09:15:00,043-max906_server.py[line:19]-ERROR-[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2020-01-09 09:45:37,677-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 09:53:38,999-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 09:57:14,784-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 10:18:50,543-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 11:29:12,918-max906_server.py[line:28]-DEBUG-[INFO]hello world,
+2020-01-09 11:29:58,293-max906_server.py[line:28]-DEBUG-[INFO]set temperature 60
+2020-01-09 11:33:36,535-max906_server.py[line:30]-ERROR-[ERROR][WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 11:33:37,536-max906_server.py[line:19]-ERROR-[WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2020-01-09 11:39:58,229-max906_server.py[line:35]-DEBUG-[INFO]???
+2020-01-09 11:40:14,928-max906_server.py[line:26]-ERROR-
+2020-01-09 11:40:14,929-max906_server.py[line:37]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 11:43:29,654-max906_server.py[line:36]-DEBUG-[INFO]还有吗
+2020-01-09 11:43:39,920-max906_server.py[line:22]-ERROR-
+2020-01-09 11:43:39,920-max906_server.py[line:27]-ERROR-
+2020-01-09 11:43:39,920-max906_server.py[line:38]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 11:45:55,344-max906_server.py[line:22]-ERROR-队列get超时,连接断开
+2020-01-09 11:45:55,346-max906_server.py[line:27]-ERROR-
+2020-01-09 11:45:55,346-max906_server.py[line:38]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 12:28:40,267-max906_server.py[line:36]-DEBUG-[INFO]g
+2020-01-09 12:28:44,438-max906_server.py[line:22]-ERROR-队列get超时,连接断开
+2020-01-09 12:28:44,438-max906_server.py[line:27]-ERROR-
+2020-01-09 12:28:44,438-max906_server.py[line:38]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 12:29:27,435-max906_server.py[line:36]-DEBUG-[INFO]还在吗
+2020-01-09 12:29:29,469-max906_server.py[line:22]-ERROR-队列get超时,连接断开
+2020-01-09 12:29:29,469-max906_server.py[line:27]-ERROR-
+2020-01-09 12:29:29,470-max906_server.py[line:38]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 12:30:23,283-max906_server.py[line:36]-DEBUG-[INFO]hello
+2020-01-09 12:30:25,166-max906_server.py[line:22]-ERROR-队列get超时,连接断开
+2020-01-09 12:30:25,166-max906_server.py[line:27]-ERROR-
+2020-01-09 12:30:25,166-max906_server.py[line:38]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 12:33:25,732-max906_server.py[line:36]-DEBUG-[INFO]hello
+2020-01-09 12:33:34,307-max906_server.py[line:36]-DEBUG-[INFO]how are you
+2020-01-09 12:33:43,069-max906_server.py[line:22]-ERROR-队列get超时,连接断开
+2020-01-09 12:33:43,069-max906_server.py[line:27]-ERROR-
+2020-01-09 12:33:43,069-max906_server.py[line:38]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 12:36:31,149-max906_server.py[line:22]-ERROR-队列get超时,连接断开
+2020-01-09 12:36:31,149-max906_server.py[line:27]-ERROR-
+2020-01-09 12:36:31,150-max906_server.py[line:38]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 12:41:10,118-max906_server.py[line:26]-ERROR-队列get超时,连接断开
+2020-01-09 12:41:10,120-max906_server.py[line:31]-ERROR-
+2020-01-09 12:41:10,120-max906_server.py[line:42]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 12:50:49,078-max906_server.py[line:26]-ERROR-队列get超时,连接断开
+2020-01-09 12:50:49,078-max906_server.py[line:31]-ERROR-
+2020-01-09 12:50:49,078-max906_server.py[line:42]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 12:55:02,623-max906_server.py[line:26]-ERROR-队列get超时,连接断开
+2020-01-09 12:55:02,624-max906_server.py[line:31]-ERROR-
+2020-01-09 12:55:02,624-max906_server.py[line:42]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 12:59:27,303-max906_server.py[line:26]-ERROR-队列get超时,连接断开
+2020-01-09 12:59:27,304-max906_server.py[line:31]-ERROR-
+2020-01-09 12:59:27,305-max906_server.py[line:42]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 13:40:23,589-max906_server.py[line:26]-ERROR-队列get超时,连接断开
+2020-01-09 13:40:23,592-max906_server.py[line:31]-ERROR-
+2020-01-09 13:40:23,592-max906_server.py[line:42]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 14:47:28,722-max906_server.py[line:26]-ERROR-队列get超时,连接断开
+2020-01-09 14:47:28,722-max906_server.py[line:31]-ERROR-
+2020-01-09 14:47:28,722-max906_server.py[line:42]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。
+2020-01-09 17:11:37,913-max906_server.py[line:26]-ERROR-队列get超时,连接断开
+2020-01-09 17:11:37,913-max906_server.py[line:31]-ERROR-
+2020-01-09 17:11:37,913-max906_server.py[line:42]-ERROR-[ERROR][WinError 10038] 在一个非套接字上尝试了一个操作。

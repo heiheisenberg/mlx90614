@@ -1,0 +1,330 @@
+[INFO]正在连接:ip, port= 10.10.2.62 8080
+[ERROR]远程服务器连接失败!
+[ERROR][WinError 10061] 由于目标计算机积极拒绝，无法连接。
+--------Wed Jan  8 11:37:33 2020----end of-----
+[INFO]正在连接:ip, port= 10.10.2.62 8080
+[ERROR]远程服务器连接失败!
+[ERROR][WinError 10061] 由于目标计算机积极拒绝，无法连接。
+[INFO]日志保存成功
+[INFO]正在连接:ip, port= 10.10.2.62 8080
+[ERROR]远程服务器连接失败!
+[ERROR][WinError 10061] 由于目标计算机积极拒绝，无法连接。
+--------Wed Jan  8 11:38:21 2020----end of-----
+[INFO]正在连接:ip, port= 10.10.2.62 8080
+[ERROR]远程服务器连接失败!
+[ERROR][WinError 10061] 由于目标计算机积极拒绝，无法连接。
+[INFO]正在连接:ip, port= 10.10.2.62 8080
+[ERROR]远程服务器连接失败!
+[ERROR][WinError 10061] 由于目标计算机积极拒绝，无法连接。
+--------Wed Jan  8 11:43:33 2020----end of-----
+[INFO]正在连接:ip, port= 10.10.2.62 8080
+[INFO]服务器连接成功!
+[INFO]hello
+[INFO]how are you
+[INFO]i love mating
+[ERROR][WinError 10054] 远程主机强迫关闭了一个现有的连接。
+[INFO]正在连接:ip, port= 10.10.2.62 8080
+[ERROR]远程服务器连接失败!
+[ERROR][WinError 10061] 由于目标计算机积极拒绝，无法连接。
+--------Wed Jan  8 15:20:24 2020----end of-----
+[INFO]正在获取树莓派ip==> 10.10.2.0/24
+[INFO]ip扫描线程启动==> 4
+[INFO]ping: 10.10.2.0
+[INFO]ping: 10.10.2.1
+[INFO]ping: 10.10.2.2
+[INFO]ping: 10.10.2.3
+[INFO]ping: 10.10.2.1 success!
+[INFO]ping: 10.10.2.4
+[INFO]ping: 10.10.2.5
+[INFO]ping: 10.10.2.6
+[INFO]ping: 10.10.2.8
+[INFO]ping: 10.10.2.7
+[INFO]ping: 10.10.2.9
+[INFO]ping: 10.10.2.11
+[INFO]ping: 10.10.2.10
+[INFO]ping: 10.10.2.12
+[INFO]ping: 10.10.2.11 success!
+[INFO]ping: 10.10.2.13
+[INFO]ping: 10.10.2.12 success!
+[INFO]ping: 10.10.2.14
+[INFO]ping: 10.10.2.13 success!
+[INFO]ping: 10.10.2.15
+[INFO]ping: 10.10.2.16
+[INFO]ping: 10.10.2.18
+[INFO]ping: 10.10.2.17
+[INFO]ping: 10.10.2.19
+[INFO]ping: 10.10.2.21
+[INFO]ping: 10.10.2.22
+[INFO]ping: 10.10.2.23
+[INFO]ping: 10.10.2.20
+[INFO]ping: 10.10.2.21 success!
+[INFO]ping: 10.10.2.24
+[INFO]ping: 10.10.2.25
+[INFO]ping: 10.10.2.26
+[INFO]ping: 10.10.2.27
+[INFO]ping: 10.10.2.28
+[INFO]ping: 10.10.2.25 success!
+[INFO]ping: 10.10.2.29
+[INFO]ping: 10.10.2.30
+[INFO]ping: 10.10.2.31
+[INFO]ping: 10.10.2.32
+[INFO]ping: 10.10.2.33
+[INFO]ping: 10.10.2.31 success!
+[INFO]ping: 10.10.2.34
+[INFO]ping: 10.10.2.32 success!
+[INFO]ping: 10.10.2.35
+[INFO]ping: 10.10.2.33 success!
+[INFO]ping: 10.10.2.36
+[INFO]ping: 10.10.2.34 success!
+[INFO]ping: 10.10.2.37
+[INFO]ping: 10.10.2.35 success!
+[INFO]ping: 10.10.2.38
+[INFO]ping: 10.10.2.37 success!
+[INFO]ping: 10.10.2.39
+[INFO]ping: 10.10.2.38 success!
+[INFO]ping: 10.10.2.40
+[INFO]ping: 10.10.2.39 success!
+[INFO]ping: 10.10.2.41
+[INFO]ping: 10.10.2.41 success!
+[INFO]ping: 10.10.2.42
+[INFO]ping: 10.10.2.43
+[INFO]ping: 10.10.2.44
+[INFO]ping: 10.10.2.45
+[INFO]ping: 10.10.2.46
+[INFO]ping: 10.10.2.43 success!
+[INFO]ping: 10.10.2.47
+[INFO]ping: 10.10.2.49
+[INFO]ping: 10.10.2.48
+[INFO]ping: 10.10.2.50
+[INFO]ping: 10.10.2.47 success!
+[INFO]ping: 10.10.2.51
+[INFO]ping: 10.10.2.48 success!
+[INFO]ping: 10.10.2.52
+[INFO]ping: 10.10.2.52 success!
+[INFO]ping: 10.10.2.53
+[INFO]ping: 10.10.2.54
+[INFO]ping: 10.10.2.55
+[INFO]ping: 10.10.2.56
+[INFO]ping: 10.10.2.57
+[INFO]ping: 10.10.2.58
+[INFO]ping: 10.10.2.59
+[INFO]ping: 10.10.2.60
+[INFO]ping: 10.10.2.61
+[INFO]ping: 10.10.2.62
+[INFO]ping: 10.10.2.63
+[INFO]ping: 10.10.2.64
+[INFO]ping: 10.10.2.65
+[INFO]ping: 10.10.2.62 success!
+[INFO]ping: 10.10.2.66
+[INFO]ping: 10.10.2.67
+[INFO]ping: 10.10.2.68
+[INFO]ping: 10.10.2.69
+[INFO]ping: 10.10.2.70
+[INFO]ping: 10.10.2.71
+[INFO]ping: 10.10.2.72
+[INFO]ping: 10.10.2.73
+[INFO]ping: 10.10.2.74
+[INFO]ping: 10.10.2.71 success!
+[INFO]ping: 10.10.2.75
+[INFO]ping: 10.10.2.76
+[INFO]ping: 10.10.2.77
+[INFO]ping: 10.10.2.78
+[INFO]ping: 10.10.2.79
+[INFO]ping: 10.10.2.80
+[INFO]ping: 10.10.2.81
+[INFO]ping: 10.10.2.82
+[INFO]ping: 10.10.2.83
+[INFO]ping: 10.10.2.85
+[INFO]ping: 10.10.2.86
+[INFO]ping: 10.10.2.84
+[INFO]ping: 10.10.2.87
+[INFO]ping: 10.10.2.88
+[INFO]ping: 10.10.2.89
+[INFO]ping: 10.10.2.90
+[INFO]ping: 10.10.2.91
+[INFO]ping: 10.10.2.93
+[INFO]ping: 10.10.2.94
+[INFO]ping: 10.10.2.92
+[INFO]ping: 10.10.2.95
+[INFO]ping: 10.10.2.96
+[INFO]ping: 10.10.2.97
+[INFO]ping: 10.10.2.98
+[INFO]ping: 10.10.2.99
+[INFO]ping: 10.10.2.100
+[INFO]ping: 10.10.2.101
+[INFO]ping: 10.10.2.102
+[INFO]ping: 10.10.2.103
+[INFO]ping: 10.10.2.105
+[INFO]ping: 10.10.2.104
+[INFO]ping: 10.10.2.106
+[INFO]ping: 10.10.2.107
+[INFO]ping: 10.10.2.109
+[INFO]ping: 10.10.2.108
+[INFO]ping: 10.10.2.110
+[INFO]ping: 10.10.2.111
+[INFO]ping: 10.10.2.112
+[INFO]ping: 10.10.2.113
+[INFO]ping: 10.10.2.114
+[INFO]ping: 10.10.2.115
+[INFO]ping: 10.10.2.116
+[INFO]ping: 10.10.2.117
+[INFO]ping: 10.10.2.118
+[INFO]ping: 10.10.2.119
+[INFO]ping: 10.10.2.120
+[INFO]ping: 10.10.2.121
+[INFO]ping: 10.10.2.122
+[INFO]ping: 10.10.2.123
+[INFO]ping: 10.10.2.124
+[INFO]ping: 10.10.2.125
+[INFO]ping: 10.10.2.127
+[INFO]ping: 10.10.2.126
+[INFO]ping: 10.10.2.128
+[INFO]ping: 10.10.2.129
+[INFO]ping: 10.10.2.130
+[INFO]ping: 10.10.2.132
+[INFO]ping: 10.10.2.131
+[INFO]ping: 10.10.2.133
+[INFO]ping: 10.10.2.134
+[INFO]ping: 10.10.2.135
+[INFO]ping: 10.10.2.136
+[INFO]ping: 10.10.2.137
+[INFO]ping: 10.10.2.138
+[INFO]ping: 10.10.2.139
+[INFO]ping: 10.10.2.140
+[INFO]ping: 10.10.2.141
+[INFO]ping: 10.10.2.142
+[INFO]ping: 10.10.2.143
+[INFO]ping: 10.10.2.144
+[INFO]ping: 10.10.2.146
+[INFO]ping: 10.10.2.145
+[INFO]ping: 10.10.2.147
+[INFO]ping: 10.10.2.148
+[INFO]ping: 10.10.2.150
+[INFO]ping: 10.10.2.149
+[INFO]ping: 10.10.2.151
+[INFO]ping: 10.10.2.152
+[INFO]ping: 10.10.2.153
+[INFO]ping: 10.10.2.154
+[INFO]ping: 10.10.2.155
+[INFO]ping: 10.10.2.156
+[INFO]ping: 10.10.2.157
+[INFO]ping: 10.10.2.158
+[INFO]ping: 10.10.2.159
+[INFO]ping: 10.10.2.160
+[INFO]ping: 10.10.2.161
+[INFO]ping: 10.10.2.162
+[INFO]ping: 10.10.2.163
+[INFO]ping: 10.10.2.164
+[INFO]ping: 10.10.2.165
+[INFO]ping: 10.10.2.166
+[INFO]ping: 10.10.2.167
+[INFO]ping: 10.10.2.168
+[INFO]ping: 10.10.2.169
+[INFO]ping: 10.10.2.170
+[INFO]ping: 10.10.2.171
+[INFO]ping: 10.10.2.172
+[INFO]ping: 10.10.2.174
+[INFO]ping: 10.10.2.175
+[INFO]ping: 10.10.2.173
+[INFO]ping: 10.10.2.176
+[INFO]ping: 10.10.2.177
+[INFO]ping: 10.10.2.178
+[INFO]ping: 10.10.2.179
+[INFO]ping: 10.10.2.180
+[INFO]ping: 10.10.2.181
+[INFO]ping: 10.10.2.182
+[INFO]ping: 10.10.2.183
+[INFO]ping: 10.10.2.184
+[INFO]ping: 10.10.2.185
+[INFO]ping: 10.10.2.186
+[INFO]ping: 10.10.2.187
+[INFO]ping: 10.10.2.188
+[INFO]ping: 10.10.2.189
+[INFO]ping: 10.10.2.190
+[INFO]ping: 10.10.2.191
+[INFO]ping: 10.10.2.192
+[INFO]ping: 10.10.2.193
+[INFO]ping: 10.10.2.194
+[INFO]ping: 10.10.2.195
+[INFO]ping: 10.10.2.196
+[INFO]ping: 10.10.2.197
+[INFO]ping: 10.10.2.198
+[INFO]ping: 10.10.2.199
+[INFO]ping: 10.10.2.200
+[INFO]ping: 10.10.2.202
+[INFO]ping: 10.10.2.203
+[INFO]ping: 10.10.2.201
+[INFO]ping: 10.10.2.204
+[INFO]ping: 10.10.2.205
+[INFO]ping: 10.10.2.206
+[INFO]ping: 10.10.2.207
+[INFO]ping: 10.10.2.208
+[INFO]ping: 10.10.2.209
+[INFO]ping: 10.10.2.210
+[INFO]ping: 10.10.2.211
+[INFO]ping: 10.10.2.212
+[INFO]ping: 10.10.2.213
+[INFO]ping: 10.10.2.214
+[INFO]ping: 10.10.2.215
+[INFO]ping: 10.10.2.216
+[INFO]ping: 10.10.2.217
+[INFO]ping: 10.10.2.218
+[INFO]ping: 10.10.2.219
+[INFO]ping: 10.10.2.220
+[INFO]ping: 10.10.2.221
+[INFO]ping: 10.10.2.222
+[INFO]ping: 10.10.2.223
+[INFO]ping: 10.10.2.224
+[INFO]ping: 10.10.2.225
+[INFO]ping: 10.10.2.226
+[INFO]ping: 10.10.2.227
+[INFO]ping: 10.10.2.228
+[INFO]ping: 10.10.2.229
+[INFO]ping: 10.10.2.230
+[INFO]ping: 10.10.2.231
+[INFO]ping: 10.10.2.232
+[INFO]ping: 10.10.2.233
+[INFO]ping: 10.10.2.234
+[INFO]ping: 10.10.2.235
+[INFO]ping: 10.10.2.237
+[INFO]ping: 10.10.2.236
+[INFO]ping: 10.10.2.238
+[INFO]ping: 10.10.2.239
+[INFO]ping: 10.10.2.240
+[INFO]ping: 10.10.2.241
+[INFO]ping: 10.10.2.242
+[INFO]ping: 10.10.2.243
+[INFO]ping: 10.10.2.244
+[INFO]ping: 10.10.2.246
+[INFO]ping: 10.10.2.247
+[INFO]ping: 10.10.2.245
+[INFO]ping: 10.10.2.248
+[INFO]ping: 10.10.2.250
+[INFO]ping: 10.10.2.249
+[INFO]ping: 10.10.2.251
+[INFO]ping: 10.10.2.252
+[INFO]ping: 10.10.2.254
+[INFO]ping: 10.10.2.253
+[INFO]ping: 10.10.2.255
+[INFO]找到一个存活主机: 10.10.2.1
+[INFO]找到一个存活主机: 10.10.2.11
+[INFO]找到一个存活主机: 10.10.2.12
+[INFO]找到一个存活主机: 10.10.2.13
+[INFO]找到一个存活主机: 10.10.2.21
+[INFO]找到一个存活主机: 10.10.2.25
+[INFO]找到一个存活主机: 10.10.2.31
+[INFO]找到一个存活主机: 10.10.2.32
+[INFO]找到一个存活主机: 10.10.2.33
+[INFO]找到一个存活主机: 10.10.2.34
+[INFO]找到一个存活主机: 10.10.2.35
+[INFO]找到一个存活主机: 10.10.2.37
+[INFO]找到一个存活主机: 10.10.2.38
+[INFO]找到一个存活主机: 10.10.2.39
+[INFO]找到一个存活主机: 10.10.2.41
+[INFO]找到一个存活主机: 10.10.2.43
+[INFO]找到一个存活主机: 10.10.2.47
+[INFO]找到一个存活主机: 10.10.2.48
+[INFO]找到一个存活主机: 10.10.2.52
+[INFO]找到一个存活主机: 10.10.2.62
+[INFO]找到一个存活主机: 10.10.2.71
+--------Wed Jan  8 17:01:01 2020----end of-----
